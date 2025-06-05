@@ -1,0 +1,36 @@
+# Web Framework
+fastapi==0.99.1
+uvicorn==0.22.0
+python-multipart==0.0.6
+
+# Database
+sqlalchemy==2.0.12
+alembic==1.10.4
+psycopg2-binary==2.9.6  # For PostgreSQL
+
+# Authentication
+python-jose==3.3.0
+passlib==1.7.4
+bcrypt==4.0.1
+python-dotenv==1.0.0
+
+# File handling
+aiofiles==23.1.0
+pillow==9.5.0
+
+# ML Model
+tensorflow==2.12.0
+numpy==1.23.5
+pandas==2.0.1
+
+# CORS
+fastapi-cors==0.0.6
+
+# Testing
+pytest==7.3.1
+httpx==0.24.1
+
+# Development
+black==23.3.0
+isort==5.12.0
+flake8==6.0.0

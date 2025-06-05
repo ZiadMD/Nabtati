@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#e8f5e9"/>
+  <path d="M100,180 L100,80 C100,80 70,70 70,50 C70,30 90,20 100,20 C110,20 130,30 130,50 C130,70 100,80 100,80" fill="#388e3c" stroke="#1b5e20" stroke-width="2"/>
+  <ellipse cx="100" cy="50" rx="20" ry="10" fill="#66bb6a" stroke="#1b5e20" stroke-width="1"/>
+  <path d="M100,180 L100,190 C100,195 105,200 110,200 L130,200 C135,200 140,195 140,190 L140,185 C140,182 138,180 135,180 Z" fill="#795548"/>
+  <text x="50%" y="20%" font-family="Arial" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1b5e20">Rubber Plant</text>
+</svg>

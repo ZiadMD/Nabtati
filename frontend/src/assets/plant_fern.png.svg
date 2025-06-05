@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#e8f5e9"/>
+  <path d="M100,40 C120,60 140,80 130,120 C120,160 100,180 100,180 C100,180 80,160 70,120 C60,80 80,60 100,40" fill="#4caf50" stroke="#2e7d32" stroke-width="2"/>
+  <path d="M100,60 C110,70 120,80 115,100 C110,120 100,130 100,130 C100,130 90,120 85,100 C80,80 90,70 100,60" fill="#81c784" stroke="#2e7d32" stroke-width="1"/>
+  <path d="M100,180 L100,190 C100,195 105,200 110,200 L130,200 C135,200 140,195 140,190 L140,185 C140,182 138,180 135,180 Z" fill="#795548"/>
+  <text x="50%" y="20%" font-family="Arial" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#1b5e20">Fern Plant</text>
+</svg>

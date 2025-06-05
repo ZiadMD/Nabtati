@@ -1,0 +1,7 @@
+<svg width="200" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="200" height="200" fill="#f1f8e9"/>
+  <path d="M100,40 C130,60 150,90 140,130 C130,170 100,180 100,180 C100,180 70,170 60,130 C50,90 70,60 100,40" fill="#7cb342" stroke="#33691e" stroke-width="2"/>
+  <path d="M80,80 C90,70 110,70 120,80 C130,90 130,110 120,120 C110,130 90,130 80,120 C70,110 70,90 80,80" fill="#aed581" stroke="#33691e" stroke-width="1"/>
+  <path d="M100,180 L100,190 C100,195 105,200 110,200 L130,200 C135,200 140,195 140,190 L140,185 C140,182 138,180 135,180 Z" fill="#795548"/>
+  <text x="50%" y="20%" font-family="Arial" font-size="16" text-anchor="middle" dominant-baseline="middle" fill="#33691e">Snake Plant</text>
+</svg>
