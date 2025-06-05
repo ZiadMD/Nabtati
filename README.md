@@ -1,6 +1,6 @@
-# Hadeeqati (حديقتي) - Home Garden Care App
+# Nabtati - Home Garden Care App
 
-Hadeeqati is a bilingual (Arabic/English) home garden care application that helps users identify and solve common plant issues, track watering schedules, manage their plant collection, and purchase gardening supplies.
+Nabtati is a bilingual (Arabic/English) home garden care application that helps users identify and solve common plant issues, track watering schedules, manage their plant collection, and purchase gardening supplies.
 
 ## Features
 
